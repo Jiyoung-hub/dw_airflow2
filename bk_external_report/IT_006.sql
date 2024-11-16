@@ -1,1 +1,1 @@
---An update from branch1 git bash
+--an upate from branch2 git bash
